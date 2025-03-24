@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AplicacionGeolocalizacion" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">#9FD996</item>
+        <item name="ColorbuttonSignInUpMenu">#9FD996</item>
+        <item name="fontFamily">@font/funnelsans</item>
+        <item name="TextTittleColor">@color/black</item>
+        <item name="TextPrincipalColor">#30312A</item>
+        <item name="TextSecondaryColor">#4D3935</item>
+        <item name="ColorMenu">#9FD996</item>
+        <item name="actionbarbackground">#9FD996</item>
+    </style>
+</resources>

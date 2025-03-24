@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Aplicacion\nGeolocalizacion</string>
+    <string name="adresshint">Ingresa tu correo</string>
+    <string name="passwordhint">Ingresa la contraseña</string>
+    <string name="passwordrehint">Ingresa nuevamente la contraseña</string>
+    <string name="signintext">Aun no tiene cuenta ? Crea una nueva !</string>
+    <string name="signuptext">Ya tiene cuenta ? Inicie Sesion !</string>
+    <string name="signin">Inicia Sesion</string>
+    <string name="WelcomeTextSignIn">Bienvenido,\nInicie Sesion\npara continuar</string>
+    <string name="WelcomeTextSignUp">Bienvenido,\nCrea una cuenta\npara continuar</string>
+    <string name="user_name">Benjamin Saenz</string>
+    <string name="user_address">Benjaminspsn@outlook.com</string>
+    <string name="open">Abrir</string>
+    <string name="close">Cerrar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

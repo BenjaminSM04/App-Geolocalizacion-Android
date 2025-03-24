@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "332850703978",
+    "project_id": "programadegeolocalizacion",
+    "storage_bucket": "programadegeolocalizacion.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332850703978:android:1f1327662a4fb1799ae413",
+        "android_client_info": {
+          "package_name": "com.example.aplicaciongeolocalizacion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByxwEvWA6ZKbmtz-7HCUWi_8NL8nB5Hcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

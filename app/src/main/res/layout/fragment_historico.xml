@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragment_historico"
+    android:padding="2dp"
+    android:background="?attr/backgroundColor">
+
+    <LinearLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <com.mapbox.maps.MapView
+            android:id="@+id/mapViewHistorico"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:mapbox_locationComponentEnabled="true"
+            app:mapbox_locationComponentPuckBearing="heading"
+            />
+
+        <Button
+            android:layout_marginTop="-50dp"
+            android:layout_gravity="right|bottom"
+            android:id="@+id/btnTrazarlinea"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:backgroundTint="?attr/colorButton"
+            android:textColor="?attr/TextSecondaryColor"
+            android:elevation="4dp"
+            android:text="Trazar Linea" />
+    </LinearLayout>
+
+</FrameLayout>

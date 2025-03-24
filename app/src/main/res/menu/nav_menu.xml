@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn= "navigation_view">
+
+
+    <item android:title="Navegacion"
+        android:textColor="?attr/TextPrincipalColor">
+        <menu>
+            <item
+                android:id="@+id/nav_miubicacion"
+                android:title="Mi Ubicacion"
+                android:textColor="?attr/TextSecondaryColor"
+                android:icon="@drawable/ic_my_location"
+                />
+            <item
+                android:id="@+id/nav_mihistorialubicacion"
+                android:title="Recientemente Visitados"
+                android:textColor="?attr/TextSecondaryColor"
+                android:icon="@drawable/map"
+                android:fontFamily="@font/funnelsans"
+                />
+            <item
+                android:id="@+id/nav_ubicaciontiemporeal"
+                android:title="Encontrar Dispositivo"
+                android:textColor="?attr/TextSecondaryColor"
+                android:icon="@drawable/ic_realtime"
+                />
+            <item
+                android:id="@+id/nav_CerrarSesion"
+                android:title="Cerrar Sesión"
+                android:textColor="?attr/TextSecondaryColor"
+                android:icon="@drawable/ic_logout"
+                />
+        </menu>
+    </item>
+    <item
+        android:title="Desarrollado"
+        android:textColor="?attr/TextPrincipalColor"
+        >
+        <menu>
+            <item
+                android:title="Creditos"
+                android:textColor="?attr/TextSecondaryColor"
+                android:id="@+id/nav_info"/>
+        </menu>
+    </item>
+</menu>

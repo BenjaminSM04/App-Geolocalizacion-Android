@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="PrimaryColor" format="color"/>
+    <attr name="BackgroundColor" format="color"/>
+    <attr name="TextPrincipalColor" format="color"/>
+    <attr name="TextTittleColor" format="color"/>
+    <attr name="TextSecondaryColor" format="color"/>
+    <attr name="ColorbuttonSignInUpMenu" format="color"/>
+    <attr name="ColorMenu" format="color"/>
+    <attr name="actionbarbackground" format="color"/>
+    <attr name="colorCredits" format="color"/>
+    <attr name="colorButton" format="color"/>
+
+
+</resources>

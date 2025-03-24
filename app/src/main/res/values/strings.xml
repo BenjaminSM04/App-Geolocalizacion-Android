@@ -8,8 +8,8 @@
     <string name="signin">Inicia Sesion</string>
     <string name="WelcomeTextSignIn">Bienvenido,\nInicie Sesion\npara continuar</string>
     <string name="WelcomeTextSignUp">Bienvenido,\nCrea una cuenta\npara continuar</string>
-    <string name="user_name">Benjamin Saenz</string>
-    <string name="user_address">Benjaminspsn@outlook.com</string>
+    <string name="user_name">Name</string>
+    <string name="user_address">Address</string>
     <string name="open">Abrir</string>
     <string name="close">Cerrar</string>
     <!-- TODO: Remove or change this placeholder text -->
